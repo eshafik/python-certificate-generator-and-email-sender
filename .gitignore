@@ -1,0 +1,7 @@
+venv/
+/venv
+certificate_*
+cred.json
+*.xlsx
+cert.jpg
+ __pycache__/
